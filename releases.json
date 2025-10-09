@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "notes": "初始版本",
+    "pub_date": "",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTU0xJb2k1U3J6ZVFoUWo3R2lMTm5EdzhoNUZTKzdsY0g1NktOOTFNL2RMM0JVVVl4b0k3bFB0MkhyL3pKOHRYZ0x0RVdUYzdyWVJvNDBtRDM0OGtZa2d0RWl0VTBqSndrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3Nzk1MTY5CWZpbGU6bXktdGF1cmktYXBwLmFwcC50YXIuZ3oKS1N0UDl5MHRteUd0RHJ6anlSMXBSWmNJUlNKb1pYTDFvK2EvUjArTlBpbXVGN3pnQlA0THhhVUd4S3JrZy9lNHBNbWVSU2VoaCswN25xNEFPcmtUQnc9PQo=",
+            "url": "https://github.com/Ac333e2/APP_RELEASE/releases/download/v1.0.0/rust-authenticator_0.1.0_x64_en-US.msi"
+        }
+    }
+}
