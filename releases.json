@@ -3,11 +3,12 @@
     "notes": "up to date version",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM0VLdVB2NmhSVEZVSFhXU0NiZmR2MHhsdHhsTHZTYkFFTkdHOWhHUHpwcDgzME9KaC9tNVcwMDUyRTlhdlpZT2dnVEh6UUhoNENoZmk2QnUzcytaQmFURDNOclNCOGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMjQ4NzQ5CWZpbGU6cnVzdC1hdXRoZW50aWNhdG9yXzEuMi4wX3g2NF9lbi1VUy5tc2kKRnBkOXV4R1RFOWRwVkgwUGhHcUV4QWlzdzQ4Z2Q5b3F4ZkJ2R2ZrMEc3clBFSEdtajdVeWY4MjN4WStiQk0yTDloOHNWbnRqRHcrQUp3RVlaMHMzRHc9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM0VLdVB2NmhSVEZ2NFo0cWtsSWdFc2g5WCsvcGFURXhSbUFIMnB2TVZ4Tjg0dFdTNDF3cWRjZnE2Qm9jeXdIT3ZnVG4yV0F2NXpReHhCRWgrT2ZydE44QXdlZTBoQ0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyMzA2Mzg3CWZpbGU6cnVzdC1hdXRoZW50aWNhdG9yXzEuMC4wX3g2NF9lbi1VUy5tc2kKYWJkeFpHMjYxYTZtN0VZam43Yi83Wi94bWxMUktWdG0vWU9ldm9hL3JmeEppYmFHOVdrRkUyMmIyQlhvV0lkOEZkeC9yR0I5RW83Qk5PYS95YXBORFE9PQo=",
             "url": "https://github.com/Ac333e2/APP_RELEASE/releases/download/V1.2.0/rust-authenticator_1.2.0_x64_en-US.msi"
         }
     }
 }
+
 
 
 
