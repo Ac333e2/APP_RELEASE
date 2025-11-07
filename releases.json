@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "notes": "up to date version",
     "platforms": {
         "windows-x86_64": {
@@ -8,6 +8,7 @@
         }
     }
 }
+
 
 
 
