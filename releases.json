@@ -1,13 +1,14 @@
 {
-    "version": "1.2.2",
-    "notes": "IyMg8J+OiuaWsOeJiOacrOWPkeW4gyAtIOWkp+eJiOacrOabtOaWsA0KPiDoi6XmnKzlnLDlt7Llronoo4XnmoTniYjmnKwgPj0gVjEuMi4wIOWPr+S7pemAmui/h+WcqOe6v+abtOaWsOaWueW8j+WuieijhQ0KDQojIyMg5paw5aKe5Yqf6IO9DQoxLiDpgJrov4fkuI3lkIzmlrnlvI/lr7zlhaXpqozor4HnoIENCiAgICArIOS7jiBHb29nbGUtQXV0aGVudGljYXRvciDlr7zlhaUNCiAgICArIOS7juS6jOe7tOeggeWvvOWFpQ0KICAgICsg6K+G5Yir5p2l6Ieq5Ymq5YiH5p2/55qE5pWw5o2u6L+b6KGM5a+85YWl77yI5Y+v5Zyo6K6+572u5Lit5YWz6Zet77yJDQogICAgKyDlj6/ku6XnlJ/miJDpmo/mnLrnmoQgc2VjcmV0cw0KICAgIA0KMi4g5Y+v5Lul5L+u5pS555So5oi35ZCN5ZKM5a+G56CBDQoNCiMjIyDkv67lpI0NCjEuIOS/ruWkjeaWsOWinumqjOivgeeggeWQjuS4jeS8muiHquWKqOi9veWFpemXrumimA0KMi4g5L+u5aSN5Yig6Zmk55So5oi35pe255So5oi35pWw5o2u5paH5Lu25LiN5Lya5Yig6Zmk55qE6Zeu6aKYDQoNCiMjIyDkvJjljJYNCjEuIOS8mOWMlumqjOivgeeggeiOt+WPluabtOaWsOacuuWItg0KMi4g5LyY5YyW6aaW5qyh6L295YWl5ZCO6I635Y+W6aqM6K+B56CB55qE5YaX5L2Z5pWw5o2uDQoNCg==",
+    "version": "1.2.3",
+    "notes": "IyMgVjEuMi4zIC0g5L+u5aSN5pu05pawDQoNCjEuIOS/ruWkjeS6huS4gOS6m2J1Z+WSjOmXrumimO+8jOS8mOWMluS6hueoi+W6j+i/kOihjOaXtumAu+i+kQ0KMi4g5paw5aKe5byA5Y+R6ICF5bel5YW3",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM0VLdVB2NmhSVElUbHNDVkR3TlJ1L1lFTTlzMGFmMEJRMHVOSUdCaWZIek1lNTVCcngwQU1CMlMyYkNWQWxJNlFnZFFmN29yTjYvTDNtUWFKTU1zb2tjQmZTZmw5WndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyNTAwMjkzCWZpbGU6cnVzdC1hdXRoZW50aWNhdG9yXzEuMi4yX3g2NF9lbi1VUy5tc2kKWlpvQ0VReEx0TS9LTUpwRGJRTGZ2RkNscVZ5dHJoUEg0VW5HK2JpaG5VenVkN2k3dXc1SjNjMmE5WVVqQys2RmQ0WGw1RGUzRXd3QWt1SnI1dUo0Q0E9PQo=",
-            "url": "https://github.com/Ac333e2/APP_RELEASE/releases/download/V1.2.2/rust-authenticator_1.2.2_x64_en-US.msi"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSM0VLdVB2NmhSVERjUWs3UVIyZkFLYzVzRFBubFM1dTlZNEh4SUViSjhNZDU1Yy9JSzd5MzcyT3VSRFNrUW9VZ3lTZFZ0bjVGUDJmTVNCdExhTVZGb041WUthYkhScndnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYyODMwNTMxCWZpbGU6cnVzdC1hdXRoZW50aWNhdG9yXzEuMi4zX3g2NF9lbi1VUy5tc2kKUlRjVS9CZ1FLdXBYQ2M5ZExRTGJ2dVVuaDRBejRrWFlRbkh1Nkh6SWdpWGdUMUxBaVdOWEJ6WTJ5bW4vZERvbkxmTEoxdVMwMkVXNFcrZW9HdW1BREE9PQo=",
+            "url": "https://github.com/Ac333e2/APP_RELEASE/releases/download/V1.2.3/rust-authenticator_1.2.3_x64_en-US.msi"
         }
     }
 }
+
 
 
 
